@@ -10,4 +10,4 @@
   </div>
    
 
-Demo Repository for introducing folks with Open source and Github. Add your names and address in names.md for first open source contribution. 
+Demo Repository for introducing folks with Open source and Github. Add your names and e-mail address in names.md for first open source contribution. 
